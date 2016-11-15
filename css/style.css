@@ -7,7 +7,7 @@
                       Main Styles
 =========================================================*/
 body {
-  background: #2b2d31;
+  background: #3a385d;
   color: #333;
   font: 400 14px/29px "Ubuntu", sans-serif;
   -webkit-text-size-adjust: none;
@@ -105,7 +105,7 @@ dd {
 dl + a[href^="mailto:"] {
   display: inline-block;
   margin-top: 30px;
-  color: #f58b11;
+  color: #ec4560;
   font-weight: 300;
   font-size: 18px;
 }
@@ -254,7 +254,7 @@ p + .btn {
 
 /*==================  Backgrounds  ======================*/
 .bg-primary {
-  background: #f58b11;
+  background: #ec4560;
 }
 
 .bg-color {
@@ -286,7 +286,7 @@ p + .btn {
   font-size: 65px;
   text-align: center;
   color: #fff;
-  background: #f58b11;
+  background: #ec4560;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -321,7 +321,7 @@ p + .btn {
   height: 167px;
   line-height: 167px;
   font-size: 60px;
-  background: #f79912;
+  background: #ec4560;
 }
 
 /*==================     Images    ======================*/
@@ -361,7 +361,7 @@ p + .btn {
   bottom: 0;
   left: 0;
   right: 100%;
-  background: #f58b11;
+  background: #ec4560;
   z-index: -1;
   -moz-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
@@ -370,7 +370,7 @@ p + .btn {
 }
 .img:hover span {
   color: #fff;
-  background: #f58b11;
+  background: #ec4560;
 }
 .img:hover span:after {
   right: 0;
@@ -387,13 +387,13 @@ p + .btn {
   text-transform: uppercase;
   text-align: center;
   color: #fff;
-  background: #2b2d31;
+  background: #ec4560;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 .btn:hover {
-  background: #f58b11;
+  background: #ec4560;
 }
 .btn:active {
   background: #ca7009;
@@ -427,16 +427,16 @@ p + .btn {
   padding: 33px 40px 0;
   float: left;
   color: #fff;
-  background: #f58b11;
+  background: #3a385d;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 .banner li:first-child {
-  background: #eb7f0f;
+  background: #3a385d;
 }
 .banner li:last-child {
-  background: #f79912;
+  background: #3a385d;
 }
 .banner h3,
 .banner h6 {
@@ -448,7 +448,7 @@ p + .btn {
 }
 .banner .btn:hover {
   background: #fff;
-  color: #f58b11;
+  color: #ec4560;
 }
 @media (max-width: 1199px) {
   .banner {
@@ -482,7 +482,7 @@ blockquote cite {
   font-size: 18px;
   font-weight: 300;
   text-transform: uppercase;
-  color: #f58b11;
+  color: white;
 }
 blockquote cite strong {
   font-weight: 500;
@@ -496,19 +496,19 @@ blockquote p + cite {
 
 /*==================   Product list   ===================*/
 .product-list li:nth-child(1) .icon {
-  background: #e2770e;
+  background: #ec4560;
 }
 .product-list li:nth-child(2) .icon {
-  background: #eb7f0f;
+  background: #ec4560;
 }
 .product-list li:nth-child(4) .icon {
-  background: #f79912;
+  background: #ec4560;
 }
 .product-list li:nth-child(5) .icon {
-  background: #faa413;
+  background: #ec4560;
 }
 .product-list li:nth-child(6) .icon {
-  background: #fcaf14;
+  background: #ec4560;
 }
 @media (max-width: 767px) {
   .product-list li + li[class*="grid_"] {
@@ -525,7 +525,7 @@ blockquote p + cite {
 
 .product-list3 li {
   padding: 32px 18px 41px 39px;
-  background: #f58b11;
+  background: #ec4560;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -543,7 +543,7 @@ blockquote p + cite {
   background: #f79912;
 }
 .product-list3 li .btn:hover {
-  color: #f58b11;
+  color: #ec4560;
   background: #fff;
 }
 
@@ -560,7 +560,7 @@ blockquote p + cite {
   line-height: 167px;
   font-size: 60px;
   color: #fff;
-  background: #f79912;
+  background: #ec4560 ;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -579,7 +579,7 @@ blockquote p + cite {
 }
 .index-list li h5 a:hover {
   text-decoration: none;
-  color: #f58b11;
+  color: #ec4560;
 }
 .index-list li.grid_1:nth-child(12n + 13),
 .index-list li.grid_2:nth-child(6n + 7),
@@ -602,7 +602,7 @@ figure img {
 .figure figcaption {
   padding: 24px 38px 28px;
   color: #fff;
-  background: #f58b11;
+  background: #ec4560;
 }
 .figure figcaption p {
   color: #fff;
@@ -620,7 +620,7 @@ figure img {
 article span {
   font-size: 36px;
   font-weight: 700;
-  color: #f79912;
+  color: #3a385d;
 }
 article span + h5 {
   margin-top: 24px;
@@ -660,7 +660,7 @@ article span + h5 {
 }
 
 .sf-menu > li > a {
-  padding: 35px 19px 33px;
+  padding: 36px 19px 33px;
   font-size: 18px;
   font-weight: 500;
   line-height: 6px;
@@ -668,12 +668,12 @@ article span + h5 {
   color: #FFF;
 }
 .sf-menu > li.sfHover > a, .sf-menu > li > a:hover {
-  color: #f58b11;
-  background: #36383c;
+  color: #ec4560;
+background: #3a385d;
 }
 .sf-menu > li.active > a {
-  color: #f58b11;
-  background: #36383c;
+  color: white;
+  background: #ec4560;
 }
 
 .sf-menu ul {
@@ -698,7 +698,7 @@ article span + h5 {
   color: #9097a3;
 }
 .sf-menu ul > li.sfHover > a, .sf-menu ul > li > a:hover {
-  color: #f58b11;
+  color: #ec4560;
 }
 .sf-menu ul > li + li {
   border-top: 1px solid #484a4d;
@@ -711,7 +711,7 @@ article span + h5 {
   width: 244px;
   margin-top: 0;
   padding: 0;
-  background: #2b2d31;
+  background: #3a385d;
   z-index: 4;
 }
 
@@ -725,7 +725,7 @@ article span + h5 {
   margin-left: -6px;
   content: "";
   font: 400 16px/50px "FontAwesome";
-  color: #f58b11;
+  color: #ec4560;
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
@@ -798,7 +798,7 @@ article span + h5 {
   padding: 9px 25px 11px;
 }
 .rd-mobilemenu_ul a:hover {
-  background: #f58b11;
+  background: #ec4560;
   color: #FFF;
 }
 .rd-mobilemenu_ul ul a {
@@ -922,7 +922,7 @@ article span + h5 {
 }
 /*==================  Stuck menu  ======================*/
 .isStuck {
-  background: #37393f;
+  background: #3a385d;
   z-index: 999;
 }
 .isStuck .sf-menu > li > a {
@@ -943,7 +943,7 @@ article span + h5 {
   height: 50px;
   font-size: 34px;
   line-height: 48px;
-  color: #f58b11;
+  color: #ec4560;
   background: #fff;
   position: fixed;
   right: 66px;
@@ -962,7 +962,7 @@ article span + h5 {
 }
 .toTop:hover {
   color: #fff;
-  background: #f58b11;
+  background: #ec4560;
   text-decoration: none;
 }
 
@@ -1012,18 +1012,15 @@ article span + h5 {
   margin-top: 16px;
 }
 .parallax .btn {
-  background: #f79912;
+  background: #ec4560x  ;
 }
 .parallax .btn:hover {
-  color: #f58b11;
+  color: #ec4560;
   background: #fff;
 }
 
-/*========================================================
-                     HEADER  Section
-=========================================================*/
 header {
-  background: #2b2d31;
+  background: #3a385d;
 }
 header .brand {
   float: left;
@@ -1085,13 +1082,13 @@ main {
 footer {
   font-weight: 300;
   color: #9097a3;
-  background: #2b2d31;
+  background: #3a385d;
 }
 footer h5 {
   color: #fff;
 }
 footer a:hover {
-  color: #f58b11;
+  color: #ec4560;
 }
 footer dt,
 footer dd {
@@ -1113,7 +1110,7 @@ footer * + h5 {
 .copyright {
   font-weight: 300;
   padding: 8px 0 12px;
-  background: #26282c;
+  background: #26253E;
 }
 @media (max-width: 767px) {
   .copyright {
