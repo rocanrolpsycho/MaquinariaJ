@@ -660,10 +660,10 @@ article span + h5 {
 }
 
 .sf-menu > li > a {
-  padding: 32px 19px 33px;
+  padding: 35px 19px 33px;
   font-size: 18px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 6px;
   text-transform: uppercase;
   color: #FFF;
 }
@@ -926,7 +926,7 @@ article span + h5 {
   z-index: 999;
 }
 .isStuck .sf-menu > li > a {
-  padding: 19px;
+
 }
 .isStuck .brand {
   margin-top: 12px;
@@ -1119,4 +1119,8 @@ footer * + h5 {
   .copyright {
     text-align: center;
   }
+}
+
+.stuck_container{
+  height: 75px !important;
 }
