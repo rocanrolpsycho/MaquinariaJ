@@ -1124,3 +1124,7 @@ footer * + h5 {
 .stuck_container{
   height: 75px !important;
 }
+
+.presentacion{
+  text-align: center;
+}
