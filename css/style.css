@@ -176,7 +176,7 @@ strong {
 
 .icon + *,
 .icon2 + * {
-  margin-top: 26px;
+  margin-top: 9px;
 }
 
 * + p {
@@ -317,10 +317,10 @@ p + .btn {
 }
 
 .icon2 {
-  width: 167px;
-  height: 167px;
-  line-height: 167px;
-  font-size: 60px;
+  width: 70px;
+  height: 62px;
+  line-height: 59px;
+  font-size: 31px;
   background: #ec4560;
 }
 
