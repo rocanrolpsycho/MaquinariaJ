@@ -1125,3 +1125,15 @@ footer * + h5 {
 .presentacion{
   text-align: center;
 }
+
+.editor{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+.relatividad{
+  height: 280px;
+  overflow: hidden;
+  position: relative;
+}
